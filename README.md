@@ -9,17 +9,17 @@
  Currently preparing for GATE
  Building projects & solving problems
 
-## 🤍 Tech Stack
+## Tech Stack
 
 C++ • Python • JavaScript • HTML • CSS • SQL
 
-## 🤍 What I'm Working On
+## What I'm Working On
 
 - Data Structures & Algorithms (consistent with LC)
 - Full-Stack Web Development
 - Machine Learning
 
-## 🤍 A little about me
+## A little about me
 
 I like building things, solving problems,
 and making my GitHub unnecessarily pretty. ♡
