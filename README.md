@@ -6,7 +6,7 @@
 </p>
 
  <b>⚪ CS/IT Student
- ⚪ DSA ⚪ Web Development ⚪ AI/ML
+ ⚪ DSA ⚪ Web Development 
  ⚪ Currently preparing for GATE
  Building projects & solving problems</b><br><br>
 
@@ -20,7 +20,7 @@
 
 - Data Structures & Algorithms (consistent with LC)
 - Full-Stack Web Development
-- Machine Learning and Data Mining <br>
+- Data Mining <br>
 
 ## A little about me
 
