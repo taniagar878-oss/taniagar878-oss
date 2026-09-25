@@ -1,7 +1,7 @@
 # Heya, It's Tanishtha (Tani for short)! 🥑
 
 <p align="center">
-  <img src="./tani_loading_keyboard_heart_same_size.gif" width="700">
+  <img src="./tani_loading_keyboard_heart_same_size.gif" width="900">
 </p>
 
  CS/IT Student
