@@ -1,17 +1,5 @@
 # Heya, It's Tanishtha 🥑<br>
 
- <b>⚪ CS/IT Student
- ⚪ DSA ⚪ Web Development 
- ⚪ Currently preparing for GATE
- Building projects & solving problems</b><br><br>
-<br>
-
-## What I'm Working On
-
-- Data Structures & Algorithms (consistent with LC)
-- Full-Stack Web Development
-- Data Mining <br>
-
 ## A little about me
 
 I'm a Computer Science student who genuinely enjoys competitive programming
@@ -21,8 +9,19 @@ I love building things, especially when they're difficult — because the
 harder the problem, the more I get to learn along the way. I always look forward for the next
 interesting problem to solve.
 
-I also love making my GitHub unnecessarily pretty. ♡<br><br>
+I also love making my GitHub unnecessarily pretty. ♡<br>
+## What I'm Working On
 
+- Data Structures & Algorithms (consistent with LC)
+- Full-Stack Web Development
+- Data Mining <br>
+<br>
+
+<b align="center" >⚪ CS/IT Student
+ ⚪ DSA ⚪ Web Development 
+ ⚪ Currently preparing for GATE
+ Building projects & solving problems</b><br><br>
+<br><br>
 
 <p align="center">
   <img src="./cropped_rectangular.gif" width="900">
