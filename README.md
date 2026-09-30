@@ -12,16 +12,6 @@
 - Full-Stack Web Development
 - Data Mining <br>
 
-<p align="center">
-  <img src="./cropped_rectangular.gif" width="900">
-</p>
-
-## Tech Stack
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,vscode,mysql" />
-</p><br>
-
 ## A little about me
 
 I'm a Computer Science student who genuinely enjoys competitive programming
@@ -31,7 +21,18 @@ I love building things, especially when they're difficult — because the
 harder the problem, the more I get to learn along the way. I always look forward for the next
 interesting problem to solve.
 
-I also love making my GitHub unnecessarily pretty. ♡<br>
+I also love making my GitHub unnecessarily pretty. ♡<br><br>
+
+
+<p align="center">
+  <img src="./cropped_rectangular.gif" width="900">
+</p>
+
+## Tech Stack
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,vscode,mysql" />
+</p><br>
 
 ## 🌷 Connect With Me
 
