@@ -1,15 +1,12 @@
 # Heya, It's Tanishtha 🥑<br>
 
-## A little about me
 
 I'm a Computer Science student who genuinely enjoys competitive programming
 and problem solving. 
 
 I love building things, especially when they're difficult — because the
 harder the problem, the more I get to learn along the way. I always look forward for the next
-interesting problem to solve.
-
-I also love making my GitHub unnecessarily pretty. ♡<br>
+interesting problem to solve.<br>
 ## What I'm Working On
 
 - Data Structures & Algorithms (consistent with LC)
