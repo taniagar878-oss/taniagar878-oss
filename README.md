@@ -1,26 +1,26 @@
-# Heya, It's Tanishtha  (Tani for short)! 🥑<br>
-
-<br>
-<p align="center">
-  <img src="./cropped_rectangular.gif" width="900">
-</p>
+# Heya, It's Tanishtha 🥑<br>
 
  <b>⚪ CS/IT Student
  ⚪ DSA ⚪ Web Development 
  ⚪ Currently preparing for GATE
  Building projects & solving problems</b><br><br>
-
-## Tech Stack
 <br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,vscode,mysql" />
-</p><br>
 
 ## What I'm Working On
 
 - Data Structures & Algorithms (consistent with LC)
 - Full-Stack Web Development
 - Data Mining <br>
+
+<p align="center">
+  <img src="./cropped_rectangular.gif" width="900">
+</p>
+
+## Tech Stack
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,vscode,mysql" />
+</p><br>
 
 ## A little about me
 
